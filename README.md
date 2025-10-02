@@ -7,6 +7,6 @@ Our results show that QAE achieves faster error reduction, requires fewer sample
 
 ## Key Result <br>
 * Implemented a quantum circuit to integrate $sin^2$ using the Monte Carlo method. <br>
-* As theory predicts: QAE reduces error faster than classical MC ($O(\frac{1}{N})$ vs $O(\frac{1}{\sqrt{N}})$). <br>
+* As theory predicts: QAE reduces error faster than classical MC ($O(\frac{1}{N}) \ vs \ O(\frac{1}{\sqrt{N}})$). <br>
 * More efficient: Achieved the same accuracy with ~10× fewer shots. <br>
 * Estimated probability distributions using characteristic functions with Quantum Monte Carlo. <br>
